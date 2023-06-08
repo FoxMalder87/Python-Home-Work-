@@ -1,5 +1,6 @@
 import math
 
+# VN: тут нужна обработка исключения
 circumference = float(input("Введите длину окружности: "))
 square_perimeter = float(input("Введите периметр квадрата: "))
 

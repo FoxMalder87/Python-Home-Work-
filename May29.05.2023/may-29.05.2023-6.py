@@ -1,3 +1,4 @@
+# VN: тут нужна обработка исключения
 purchase_amount = float(input("Введите сумму покупки: "))
 
 if 200 <= purchase_amount < 300:

@@ -1,3 +1,4 @@
+# VN: тут нужна обработка исключения
 usd_amount = float(input("Введите количество USD: "))
 currency = input("Выберите валюту для конвертации (EUR, UAN, AZN): ")
 
